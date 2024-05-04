@@ -219,7 +219,8 @@ http://is.am/5nvv
 #EXTINF:-1 group-title="🌲Colatv live 🌲" tvg-logo="https://colatv.tokyo/img/logo2.132ebdc.png",[BLV KAKA]
 https://live6.xiangmirong.com/live/33860426.flv?auth_key=1712751900-0-247837-964fde73b4b379c6c0803b71b186e2c0
 #EXTINF:-1 group-title="🌲Colatv live 🌲" tvg-logo="https://colatv.tokyo/img/logo2.132ebdc.png",[BLV COZY]
-https://live5.xjbooking.com/live/83054490.flv?txSecret=d6ad0750e0cad3166ab7d875fb623fc7&txTime=18FDBDC816F
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live5.xjbooking.com/live/83054490.flv?txSecret=d6ad0750e0cad3166ab7d875fb623fc7&txTime=18FDBDC816F|
 #EXTINF:-1 group-title="🌲Colatv live 🌲" tvg-logo="https://colatv.tokyo/img/logo2.132ebdc.png",[BLV IVAN]
 https://live6.xiangmirong.com/live/08552895.flv?auth_key=1712636700-0-247838-36a1b7146ad3b9787274cc1b9aabfe3d
 #EXTINF:-1 group-title="🌲Colatv live 🌲" tvg-logo="https://colatv.tokyo/img/logo2.132ebdc.png",[BLV CLARK]
