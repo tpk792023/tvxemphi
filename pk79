@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-id="INTRO" group-title="INTRO" tvg-logo="https://img.upanh.tv/2024/03/20/logo-xem-tivi.jpg",TỐNG PHƯỚC KHẢI chúc các bạn xem vui vẻ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/onfootball
+#https://tth.vn/onfootball
 #http://iptv.quehungtv.com:9999/udp/225.1.2.249:30120
 #http://14.226.177.254:4025/rtp/232.84.3.152:10882
 #https://ctrl.laotv.la/live/TSport1/index.m3u8
@@ -14,7 +14,7 @@ https://tth.vn/onfootball
 #https://tth.vn/ONFOOTBALL-CLIPTV
 #http://113.162.44.19:8889/rtp/232.84.2.33:10606
 #https://tth.vn/TT-NHA-23-24
-#https://tth.vn/TT-NGOẠI-HẠNG-ANH-2024
+https://tth.vn/TT-NGOẠI-HẠNG-ANH-2024
 #http://is.am/5nx3
 #https://ec02-pop4-hlc.tv360.vn/bpk-token/cbrcuyrljaiwfjyefurbeyrkmiigektc/bpk-tv/234/output/234-audio_133600_eng=131600-video=1067600.m3u8
 #http://is.am/5nnb
@@ -28,8 +28,8 @@ https://tth.vn/onfootball
 
 #EXTINF:-1 group-title="NGOẠI HẠNG ANH" tvg-logo="https://i.imgur.com/8bwS8gV.jpeg",23:30 04/05|🔴 Trực tiếp MC vs WOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://is.am/5ntn
-#https://tth.vn/TT-NGOẠI-HẠNG-ANH-2024
+#http://is.am/5ntn
+https://tth.vn/TT-NGOẠI-HẠNG-ANH-2024
 
 #EXTINF:-1 group-title="NGOẠI HẠNG ANH" tvg-logo="https://i.imgur.com/8bwS8gV.jpeg",21:00 04/05|🔴 Trực tiếp BRENTFORD vs FULHAM
 https://tth.vn/KACTION-360
